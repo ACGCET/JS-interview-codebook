@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
+
 	 //Find first repeated element in array/
   var numbers = [1,2,3,4,2,6,7,8,7,5];
   var duplicate;
@@ -19,6 +12,3 @@
    }
   }
   console.log(duplicate);
-</script>
-</body>
-</html>

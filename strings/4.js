@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
 
  console.log("Find length of last word");
  //Find length of last word/
@@ -22,6 +14,3 @@
  	 console.log(len);
  }
 	
-</script>
-</body>
-</html>

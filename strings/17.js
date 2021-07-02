@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
+
 	//Palindrome String using Built-in function/
 
 var str = "madam";
@@ -21,7 +14,7 @@ console.log("false")
 }
 
 
-/Palindrome string without built-in function/
+//Palindrome string without built-in function
 
 var palistr = "saravana";
 
@@ -38,7 +31,3 @@ function check(str)
   return 'It is a palindrome';
 }
 console.log(check(palistr))	;
-
-</script>
-</body>
-</html>

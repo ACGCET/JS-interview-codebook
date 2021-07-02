@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
-	//Find given no is Prime or not/
+//Find given no is Prime or not/
 
 var prino = 15;
 var prires = true;
@@ -38,6 +30,3 @@ else
 {
 	console.log("Not prime");
 }
-</script>
-</body>
-</html>

@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
 	
 //Check occurrence of a character using a Regex/
 function countString(str, letter)
@@ -23,5 +15,3 @@ console.log(result);
 g- represents that the operation is carried out for all in instances of the string.
 The match() method returns an array containing all the matches. Here, str.match(re);gives ["o", "o"].
 The length property gives the length of an array element.*/
-</script></body>
-</html>

@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
-	
+
  //Roman To Integer/
  var roman = "XII";
  var romanToInt = function(s)
@@ -50,7 +42,3 @@
     return result;
 };
 console.log(romanToInt(roman));
-
-</script>
-</body>
-</html>

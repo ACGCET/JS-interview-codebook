@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
 
+	
 	console.log("Rotate array  to Right");
 	//Rotate array  to Right
  var a=['S','A','R','A','V','A','N','A'];
@@ -40,7 +33,7 @@
 
  
  console.log("Rotate array custom times to Left");
- /Rotate array custom times to Left/
+ //Rotate array custom times to Left
   var nl = window.prompt("Enter times: ");
  console.log(nl);
  var dd=['S','A','R','A','V','A','N','A'];
@@ -51,6 +44,3 @@
  }
  console.log(dd);
 	
-</script>
-</body>
-</html>

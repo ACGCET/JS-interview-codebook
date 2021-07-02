@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
+
 	 //Find Given strings is anagram or not/
 
  var str = "saravana";
@@ -18,7 +11,3 @@ var two = fake.toLowerCase().split('').sort().join();
  {
  	console.log("True");
  }
-
-</script>
-</body>
-</html>

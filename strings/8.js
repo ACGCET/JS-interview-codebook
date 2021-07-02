@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
+
 	    //Print the most lengthiest string in an array/
 
     var c = ['saravana','sabari','karthickr','solai'];
@@ -18,6 +12,3 @@
     }
     console.log(ans);
     console.log(Math.max(...ans));
-</script>
-</body>
-</html>

@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
-	
 //Replace All Instances Of a Character Using Regex/
 const string = 'Learning JavaScript Program';
 const result = string.replace(/a/g, "A");
 console.log(result);
-</script>
-</body>
-</html>

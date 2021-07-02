@@ -1,12 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
-	//Given an array containingndistinct numbers taken from0, 1, 2, ..., n, find the one that is missing from the array.
+    // Given an array containing n distinct numbers taken from0, 1, 2, ..., n, 
+    // find the one that is missing from the array.
 	var a = [1,2,3,5,6,4,8,9];
     var missingNumber = function(nums)
     {
@@ -28,7 +21,3 @@
     return i;
     };
     console.log(missingNumber(a));
-	
-</script>
-</body>
-</html>

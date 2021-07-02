@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
 	
-
 	//Arrange coin problem /
 	
 	let coincount = 7;
@@ -25,8 +17,3 @@
  	return res;
  }
 console.log(coin(coincount));
-
-
-</script>
-</body>
-</html>

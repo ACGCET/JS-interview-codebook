@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
-
 	//Program to Replace all Instances of a Character in a String/
 
 var strall ="Saravana";
 var dup = strall.split('a');
 var rs= dup.join('A');
 console.log	(rs);
-
-
-</script>
-</body>
-</html>

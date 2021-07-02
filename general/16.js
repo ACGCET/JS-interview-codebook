@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-<script type="text/javascript">
-	
 
-	//Palindrome Number/
+//Palindrome Number
 var n = 545;
 var r = 0, sum = 0,temp = n;
 
@@ -25,6 +17,3 @@ else
 {
 	console.log("False");
 }
-</script>
-</body>
-</html>

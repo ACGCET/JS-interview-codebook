@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
 
-<script type="text/javascript">
-	
 	  //Valid Parenthesis/
 
   var a = "([)]";
@@ -50,7 +42,3 @@
 
 };
 console.log(isValid(a));
-
-</script>
-</body>
-</html>
